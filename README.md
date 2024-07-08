@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+### My name is Yoav 👨‍💻
+- 🔭 I’m currently working on a UNIX shell written in C, CTFs
+- 🌱 I’m currently learning about networking
 
 <!--
 **GroundBreakingSalad7/GroundBreakingSalad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
